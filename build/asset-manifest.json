@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.106638e4.css",
+    "main.js": "/static/js/main.904c42e6.js",
+    "static/media/moutain.png": "/static/media/moutain.dc7a08e1faa2e14de0bd.png",
+    "static/media/banner.png": "/static/media/banner.1168be13650bb18b456e.png",
+    "static/media/logo.jpg": "/static/media/logo.b6369e8f55cb53003c19.jpg",
+    "index.html": "/index.html",
+    "main.106638e4.css.map": "/static/css/main.106638e4.css.map",
+    "main.904c42e6.js.map": "/static/js/main.904c42e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.106638e4.css",
+    "static/js/main.904c42e6.js"
+  ]
+}
