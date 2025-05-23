@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-**→ [Open the Ohmyfood Live Demo](https://bedgard.github.io/Kasa-project-6/)**
+**→ [Open Kasa Live Demo](https://bedgard.github.io/Kasa-project-6/)**
 
 
 ## Overview
